@@ -1,3 +1,6 @@
+! This is a vibe coding project for NTU course !
+If you are looking for main.py, I named it aqi_mapper.py
+
 # 台灣即時 AQI 數據地圖
 
 這個程式可以串接環境部 API 獲取全台即時 AQI 數據，並使用 Folium 在地圖上標示所有測站位置。
