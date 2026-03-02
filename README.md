@@ -1,4 +1,4 @@
-! This is a vibe coding project for NTU course !
+## ! This is a vibe coding project for NTU course !
 If you are looking for main.py, I named it aqi_mapper.py
 
 # 台灣即時 AQI 數據地圖
